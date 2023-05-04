@@ -3,7 +3,7 @@
 
 Desenvolvimento de plataforma de realocação de profissionais.
 
-
+**Observação:** Para criar novas funcionalidades você deve criar uma branch separada e fazer um pull request para develop.
 
 
 ## Como rodar o projeto
